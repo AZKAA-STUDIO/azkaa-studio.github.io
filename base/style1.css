@@ -1,0 +1,107 @@
+body{
+	background-color:#FFFFFF;
+	margin: 0px;
+}
+
+.headbody{
+	background-color:#250c02;
+	index-z: 5;
+	padding: 0px;
+	border: 3px;
+}
+
+.upbody{
+	background-color:#660600;
+	index-z: 4;
+	border: 4px;
+}
+
+.txt{
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: #FFFFFF;
+}
+
+.txt2{
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: #000000;
+}
+
+.txt2{
+	font-family: Century Gothic Bold;
+	font-size: 32px;
+	color: #000000;
+}
+
+.txtimg{
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: #000000;
+	text-align: center;
+}
+
+.image{
+	border-width: 4px;
+	padding: 10px;
+}
+
+.zoom img{
+	height: 100px;
+	width: 150;
+	margin: 0px 0;
+	transition: all 1s ease;
+}
+
+.zoom img:hover {
+	height: 200px;
+	width: 300;
+	margin: 0 auto;
+}
+
+.a img{
+	border-radius: 20px;
+}
+
+.b{
+	background-color: #800000;
+	border-radius: 20px;
+	margin: 2px 26em 1em 26em;
+	overflow: auto;
+}
+
+
+.image2{
+	border-width: 4px;
+	padding: 10px;
+	border-radius: 15px;
+	height: 200px;
+	width: 300;
+}
+
+.c{
+	border-radius: 20px;
+	width: 768px;
+}
+
+.d{
+	background-color:#480000
+	margin-top: 1em;
+	index-z: 4;
+	border: 4px;
+}
+
+.image3{
+	border-width: 4px;
+	padding: 10px;
+	height: 100x;
+	width: 150px;
+}
+
+.leftt{
+	height: 400px;
+	width: 600;
+	margin-left: 5em;
+	border-radius: 10px;
+
+}
